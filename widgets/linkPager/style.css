@@ -1,0 +1,19 @@
+.page-input {
+    display: inline-block;
+    margin-left: 20px;
+}
+
+.page-input label {
+    float: left;
+    margin-top: 5px;
+}
+
+.page-input input[type="text"] {
+    width: 50px;
+    float: left;
+    margin-left: 5px;
+}
+
+.page-input input[type="button"] {
+    margin-left: 5px;
+}

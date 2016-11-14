@@ -1,0 +1,35 @@
+html {
+  height: 100%;
+}
+
+body {
+  height: 100%;
+  background: #f2ebf9;
+  overflow-y: scroll;
+}
+
+.wrap {
+  min-height: 100%;
+  height: auto;
+  margin: 0 auto -60px;
+  padding: 0 0 60px;
+}
+
+.wrap .container {
+  width: 1300px;
+  padding: 70px 20px 20px 20px;
+}
+
+.wrap .container .nav-pills a:hover {
+  background: #4d97ff;
+}
+
+#sql-form {
+  margin-bottom: 20px;
+}
+
+#sql-form .CodeMirror {
+  border: 1px solid #eee !important;
+  height: auto !important;
+  margin-bottom: 20px;
+}

@@ -1,0 +1,9 @@
+.toolbar button {
+    float: none !important;
+}
+
+.page-count {
+    width: auto;
+    display: inline;
+    cursor: pointer;
+}

@@ -1,0 +1,38 @@
+.stat {
+    margin-left: 50px;
+}
+
+.stat label{
+    cursor: pointer;
+    border-radius: 30px;
+    padding: 8px;
+    width: 35px;
+    height: 35px;
+    margin-left: 15px;
+    text-align: center;
+    color: #ffffff;
+}
+
+.stat .active {
+    background: #6AA84F;
+}
+
+.stat .finish {
+    background: #CC4125;
+}
+
+.stat .comments {
+    background: #3D85C6;
+}
+
+.stat .inWork {
+    background: #7900a0;
+}
+
+.statistic-table .active {
+    background: #B6D7A8;
+}
+
+.statistic-table .finish {
+    background: #E6B8AF;
+}

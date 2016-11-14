@@ -1,0 +1,12 @@
+.account-icon {
+    font-size: 18px;
+    margin-right: 50px;
+}
+
+.account-icon label {
+    color: black;
+}
+
+.account-icon .popover {
+    min-width: 200px;
+}
